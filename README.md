@@ -1,6 +1,6 @@
 # Travel_APP
 
-## Recently, I revisited React Native via Expo and took the chance to learn Tailwind CSS. Creating UI components with Tailwind was an exciting learning curve.
+## I revisited React Native via Expo and took the chance to learn Tailwind CSS. Creating UI components with Tailwind was an exciting learning curve.
 
 <li>Carousel of Images for Categories: Introducing a visually captivating carousel that showcases images for various categories.</li>
 
